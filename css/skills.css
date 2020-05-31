@@ -1,0 +1,14 @@
+html, body{
+    overflow: visible;
+}
+.fa{
+    font-size: 2rem;
+}
+.body .main{
+    flex: 20;
+    margin: 30px 20px;
+}
+.body .main h1{
+    font-weight: 300;
+    font-size: 3rem;
+}
